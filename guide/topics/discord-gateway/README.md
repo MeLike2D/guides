@@ -1,12 +1,12 @@
 ---
 title: Introduction to the Discord Gateway authors:
-
-- melike2d categories:
-- Javascript tags:
+- melike2d 
+categories:
+- Javascript 
+tags:
 - Discord
 - Bot Development
 - WebSockets
-
 ---
 
 An introduction to the Discord Gateway and it's quirks.
